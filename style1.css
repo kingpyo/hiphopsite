@@ -1,0 +1,29 @@
+h1{
+    text-align: center;
+    font-size: 60px;
+    text-decoration: none;
+    color: black;
+    border-bottom: black 3.5px solid;
+    padding-bottom: 10px;
+   }
+
+a{
+    color:black;
+    text-decoration: black;
+    }
+#sitebar{
+    text-align: center;
+    padding-right: 80px;
+}
+
+
+#sitebar li{
+    list-style-type: none;
+    display: inline;
+    margin-left: 70px;
+    font-weight: bold;
+    
+    }
+
+
+

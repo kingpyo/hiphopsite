@@ -1,0 +1,93 @@
+body{
+    color: white;
+    background-color: black;
+
+}
+
+
+h1{
+    background-color: #1d1d1d;
+    padding: 0;
+    margin-bottom: 5px;
+    margin-top: 0;
+    margin-left: 0;
+    margin-right: 0;
+
+    border-bottom: #6b6b6b 2px solid;
+    padding-left: 10px;
+    padding-bottom: 5px;
+}
+
+h1 a{
+    color:white;
+    text-decoration: none;
+
+}
+
+li a{
+    color: #6b6b6b;
+    background-color: #1d1d1d;
+    text-decoration: none;
+    }
+
+#sitebar{
+    text-align: center;
+}
+
+
+#sitebar li{
+    list-style-type: none;
+    display: inline;
+    margin-left: 70px;
+    font-weight: bold;
+    
+    }
+
+#sitebar2{
+    display: grid;
+    grid-template-columns: 1fr 10fr;
+    background-color: #1d1d1d;
+    padding: 10px;
+    margin-bottom: 5px;
+    margin-top: 0;
+    margin-left: 0;
+    margin-right: 0;
+    position: absolute;
+    top: 0px; left: 0px; right: 0px;
+
+}
+
+.music{
+    list-style-type: none;
+    float: left;
+    margin-left: 100px;
+}
+
+.lable{
+    list-style-type: none;
+    text-align: center;
+    border-top: #373a3c 1px solid;
+    margin-left: 250px;
+    margin-right: 250px;
+    
+       
+}
+
+.lableexplain{
+    font-size: 0.5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    
+}
+
+.lableimg{
+    display: block;
+    text-align: center;
+}
+
+.lableimg{
+    margin-left: 300px;
+    margin-right: 300px;
+}
